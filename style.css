@@ -1,0 +1,30 @@
+
+            h1 {
+                color: brown;
+            }
+
+            /* {
+                border: solid;
+            }
+
+            */
+            .header{
+
+              background-color: rgb(50, 204, 204);
+              display: flex; 
+              justify-content: space-evenly;
+            }
+            .main{
+                background-image: url("youtube.png");
+                background-color: greenyellow;
+                display: flex;
+               flex-wrap:wrap;
+                justify-content: space-evenly;
+            }
+            .footer{
+                background-color: rgb(50, 204, 204);
+                display:flex;
+                justify-content:flex-end;
+
+
+            }
